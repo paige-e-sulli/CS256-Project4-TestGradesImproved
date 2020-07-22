@@ -46,7 +46,7 @@ public class TestGradesImproved {
     System.out.println("\nGoodbye!");
   }
 
-  public static void main(String args[])
+  public static void testGradesImproved(String args[])
   {
     
     int grades[] = new int[6];
