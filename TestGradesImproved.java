@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter; 
 
 
-public class Main {
+public class TestGradesImproved {
   static void fileCreation(){
     System.out.println("\n\nNow a file will be created, written, and read for you with your grade information.\n");
     try {
